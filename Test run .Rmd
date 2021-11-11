@@ -1,0 +1,30 @@
+---
+title: "Test 2"
+author: "Akshay Sinha"
+date: "29/07/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Install required packages:
+
+* 'tidyverse' for data import and wrangling 
+* 'lubridate' for date functions
+* 'ggplot' for visualization 
+
+```{r}
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("ggplot2")
+setwd("/Users/akshaysinha/Desktop/001_Clyclistic")
+
+#load packages
+library(rmarkdown)
+library(tidyverse)
+library(lubridate)
+library(ggplot2)
+```
+

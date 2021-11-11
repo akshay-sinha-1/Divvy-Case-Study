@@ -1,0 +1,62 @@
+---
+title: "Capstone - Case Study 1"
+author: "Akshay Sinha"
+date: "29/07/2021"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 5
+    toc_float: TRUE
+---
+# Introduction
+
+hi this is the intro 
+
+# Ask
+
+##### Guiding Questions
+
+yo they are asking a lot of me 
+
+##### Key Tasks
+##### Deliverables
+
+# Prepare
+
+##### Guiding Questions
+##### Key Tasks
+##### Deliverables
+
+# Process
+
+##### Code
+##### Guiding Questions
+##### Key Tasks
+##### Deliverables
+
+# Analyze
+
+##### Code
+##### Guiding Questions
+##### Key Tasks
+##### Deliverables
+
+# Share
+
+##### Guiding Questions
+##### Key Tasks
+##### Deliverables
+
+
+# Act
+
+##### Guiding Questions
+##### Key Tasks
+##### Deliverables
+
+# Conclusion
+  
+  
+
+
+
